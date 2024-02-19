@@ -1,2 +1,2 @@
-# Anniversary-App
+# Anniversary for You
 Anniversay for You
